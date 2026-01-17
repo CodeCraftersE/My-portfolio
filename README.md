@@ -1,6 +1,9 @@
 # 🚀 Sayantan Das — Java Engineer Portfolio
 
-![Portfolio Preview](Screenshot 2026-01-17 154726.png)
+<p align="center">
+  <img src="assets/portfolio-preview.png" alt="Portfolio Preview" />
+</p>
+
 
 ## 👋 Overview
 
