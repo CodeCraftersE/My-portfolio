@@ -107,8 +107,8 @@ Feel free to reach out for:
 ## ⚡ Getting Started (Optional for Developers)
 
 ```bash
-git clone https://github.com/your-username/your-portfolio-repo.git
-cd your-portfolio-repo
+git clone https://github.com/CodeCraftersE/My-portfolio.git
+cd my-portfolio-repo
 npm install
 npm run dev
 
