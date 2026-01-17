@@ -1,0 +1,8 @@
+{
+  "name": " Sayantan Das Portfolio",
+  "description": "A professional, recruiter-optimized portfolio for Sayantan Das, a Java Engineer specializing in Backend and Full-Stack development.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
